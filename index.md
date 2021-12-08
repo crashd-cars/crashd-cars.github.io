@@ -1,12 +1,12 @@
 ### Download CrashD:
-- __[Part 1](https://en.wikipedia.org/wiki/Standard_test_image)__ - Scenes of crashed cars
-- __[Part 2](https://en.wikipedia.org/wiki/Standard_test_image)__ - Scenes of clean cars
+- __[Part 1](https://drive.google.com/file/d/18tOcuHBzYEkMDOKoPshUBVOIKAHxEvnp/view?usp=sharing)__ - Scenes of clean cars
+- __[Part 2](https://drive.google.com/file/d/1b4bVVpPcIwCSnFTU9B8S33fsQNCTPE8j/view?usp=sharing)__ - Scenes of crashed cars
 - __[Data format description](data_format.txt)__
 
 Licence: CC BY 4.0
 
 ### Paper:
-- __[arxiv](https://en.wikipedia.org/wiki/Standard_test_image)__
+- __[arxiv](https://arxiv.org/)__
 
 ### Abstract
 
