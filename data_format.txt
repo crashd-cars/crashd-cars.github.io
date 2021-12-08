@@ -1,0 +1,37 @@
+Data Format Description
+=======================
+
+The data for the different cars and crash types can be found in the corresponding folders
+(e.g., 21_linear_unusual_hard) identifying the class of the cars.
+The sub-folders are structured as follows:
+
+  - anno/ contains the original annotation file (numpy)
+  - lidar/ contains the point cloud (bin)
+  - crashd_infos_kittiformat.pkl contains all annotations of the folder in KITTI format (pickle)
+
+_________________________
+The original annotation file contains a numpy array with dimensions (Number of cars, 8, 3) with
+following description:
+
+* `front_bottom_left`:	Bottom left point of the front rectangle as an (x, y ,z) triplet
+* `front_bottom_right`:	Bottom right point of the front rectangle as an (x, y, z) triplet
+* `front_top_left`: 	Top left point of the front rectangle as an (x, y, z) triplet
+* `front_top_right`: 	Top right point of the front rectangle as an (x, y, z) triplet
+* `rear_bottom_left`: 	Bottom left point of the rear rectangle as an (x, y, z) triplet
+* `rear_bottom_right`: 	Bottom right point of the rear rectangle as an (x, y, z) triplet
+* `rear_top_left`: 	Top left point of the rear rectangle as an (x, y, z) triplet
+* `rear_top_right`: 	Top right point of the rear rectangle as an (x, y, z) triplet
+
+_______________________
+crashd_infos_kittiformat.pkl contains a list of dictionaries for each sample containing:
+
+'frame': 	Sample id (str); The id is the same for the scenes with damaged and corresponding repaired vehicles.
+	 	These can be found in the corresponding folders named (clean_ex***).
+'type': 	Object type: 'car'.
+'location': 	3D object location x,y,z in LiDAR coords. [m]
+'dimensions': 	3D object dimensions: height, width, length [m]
+'rotation_y': 	Rotation around Y-axis in LiDAR coords. [-Pi; Pi]
+'occluded': 	Integer (0,1,2,3) indicating occlusion state;
+		Included for completeness, all cars are always visible.
+'truncated': 	Integer (0,1,2) indicating the level of truncation.
+		Included for completeness, no truncation occurs.
