@@ -3,6 +3,8 @@
 - __[Part 2](https://en.wikipedia.org/wiki/Standard_test_image)__ - Scenes of clean cars
 - __[Data format description](data_format.txt)__
 
+Licence: CC BY 4.0
+
 ### Paper:
 - __[arxiv](https://en.wikipedia.org/wiki/Standard_test_image)__
 
