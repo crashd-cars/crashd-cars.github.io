@@ -1,12 +1,12 @@
-Alexander Lehner<sup  {font-size:xx-small; vertical-align:super;}>\*,1,2</sup> &nbsp; Stefano Gasperini<sup  {font-size:xx-small; vertical-align:super;}>\*,1,2</sup> &nbsp; Alvaro Marcos-Ramiro<sup  {font-size:xx-small; vertical-align:super;}>2</sup>\
-Michael Schmidt<sup  {font-size:xx-small; vertical-align:super;}>2</sup> &nbsp; Mohammad-Ali Nikouei Mahani<sup  {font-size:xx-small; vertical-align:super;}>2</sup> &nbsp; Nassir Navab<sup  {font-size:xx-small; vertical-align:super;}>1,3</sup>\
-Benjamin Busam<sup  {font-size:xx-small; vertical-align:super;}>1</sup> &nbsp; Federico Tombari<sup  {font-size:xx-small; vertical-align:super;}>1,4</sup>
+Alexander Lehner \*,1,2 &nbsp; Stefano Gasperini \*,1,2 &nbsp; Alvaro Marcos-Ramiro 2 \
+Michael Schmidt 2 &nbsp; Mohammad-Ali Nikouei Mahani 2 &nbsp; Nassir Navab 1,3\
+Benjamin Busam 1 &nbsp; Federico Tombari 1,4
 
-<sup  {font-size:xx-small; vertical-align:super;}>\*</sup> equal contribution\
-<sup  {font-size:xx-small; vertical-align:super;}>1</sup> Technical University of Munich\
-<sup  {font-size:xx-small; vertical-align:super;}>2</sup> BMW Group\
-<sup  {font-size:xx-small; vertical-align:super;}>3</sup> Johns Hopkins University\
-<sup  {font-size:xx-small; vertical-align:super;}>4</sup> Google
+\* equal contribution\
+1 Technical University of Munich\
+2 BMW Group\
+3 Johns Hopkins University\
+4 Google
 
 ### Download the CrashD dataset:
 - __[Part 1](https://drive.google.com/file/d/18tOcuHBzYEkMDOKoPshUBVOIKAHxEvnp/view?usp=sharing)__ - Scenes with undamaged cars
