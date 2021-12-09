@@ -13,7 +13,7 @@ Benjamin Busam 1 &nbsp; Federico Tombari 1,4
 - __[Part 2](https://drive.google.com/file/d/1b4bVVpPcIwCSnFTU9B8S33fsQNCTPE8j/view?usp=sharing)__ - Scenes with damaged cars
 - __[Data format description](data_format.txt)__
 
-Licence: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+License: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 ### Paper
 - (soon) available on __[arXiv](https://arxiv.org/)__
