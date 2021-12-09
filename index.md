@@ -8,14 +8,14 @@ Benjamin Busam 1 &nbsp; Federico Tombari 1,4
 3 Johns Hopkins University\
 4 Google
 
-### Download the CrashD dataset:
+### Download the CrashD dataset
 - __[Part 1](https://drive.google.com/file/d/18tOcuHBzYEkMDOKoPshUBVOIKAHxEvnp/view?usp=sharing)__ - Scenes with undamaged cars
 - __[Part 2](https://drive.google.com/file/d/1b4bVVpPcIwCSnFTU9B8S33fsQNCTPE8j/view?usp=sharing)__ - Scenes with damaged cars
 - __[Data format description](data_format.txt)__
 
 Licence: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
-### Paper:
+### Paper
 - (soon) available on __[arXiv](https://arxiv.org/)__
 
 ### Abstract
