@@ -1,12 +1,21 @@
-### Download CrashD:
-- __[Part 1](https://drive.google.com/file/d/18tOcuHBzYEkMDOKoPshUBVOIKAHxEvnp/view?usp=sharing)__ - Scenes of clean cars
-- __[Part 2](https://drive.google.com/file/d/1b4bVVpPcIwCSnFTU9B8S33fsQNCTPE8j/view?usp=sharing)__ - Scenes of crashed cars
+Alexander Lehner<sup>\*,1,2</sup> &nbsp; Stefano Gasperini<sup>\*,1,2</sup> &nbsp; Alvaro Marcos-Ramiro<sup>2</sup> &nbsp; Michael Schmidt<sup>2</sup>\
+Mohammad-Ali Nikouei Mahani<sup>2</sup> &nbsp; Nassir Navab<sup>1,3</sup> &nbsp; Benjamin Busam<sup>1</sup> &nbsp; Federico Tombari<sup>1,4</sup>
+
+<sup>\*</sup> equal contribution\
+<sup>1</sup> Technical University of Munich\
+<sup>2</sup> BMW Group\
+<sup>3</sup> Johns Hopkins University\
+<sup>4</sup> Google
+
+### Download the CrashD dataset:
+- __[Part 1](https://drive.google.com/file/d/18tOcuHBzYEkMDOKoPshUBVOIKAHxEvnp/view?usp=sharing)__ - Scenes with undamaged cars
+- __[Part 2](https://drive.google.com/file/d/1b4bVVpPcIwCSnFTU9B8S33fsQNCTPE8j/view?usp=sharing)__ - Scenes with damaged cars
 - __[Data format description](data_format.txt)__
 
-Licence: CC BY 4.0
+Licence: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 ### Paper:
-- __[arxiv](https://arxiv.org/)__
+- (soon) available on __[arXiv](https://arxiv.org/)__
 
 ### Abstract
 
