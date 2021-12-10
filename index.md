@@ -16,7 +16,7 @@ Benjamin Busam 1 &nbsp; Federico Tombari 1,4
 License: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 ### Paper
-- (soon) available on __[arXiv](https://arxiv.org/)__
+- available on __[arXiv](https://arxiv.org/abs/2112.04764)__
 
 ### Abstract
 
