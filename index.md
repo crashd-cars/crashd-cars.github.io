@@ -1,12 +1,10 @@
-Alexander Lehner \*,1,2 &nbsp; Stefano Gasperini \*,1,2 &nbsp; Alvaro Marcos-Ramiro 2 \
-Michael Schmidt 2 &nbsp; Mohammad-Ali Nikouei Mahani 2 &nbsp; Nassir Navab 1,3\
-Benjamin Busam 1 &nbsp; Federico Tombari 1,4
+Alexander Lehner \* &nbsp; Stefano Gasperini \* &nbsp; Alvaro Marcos-Ramiro \
+Michael Schmidt &nbsp; Mohammad-Ali Nikouei Mahani &nbsp; Nassir Navab \
+Benjamin Busam &nbsp; Federico Tombari
 
 \* equal contribution\
-1 Technical University of Munich\
-2 BMW Group\
-3 Johns Hopkins University\
-4 Google
+
+Technical University of Munich &nbsp; BMW Group &nbsp; Johns Hopkins University &nbsp; Google
 
 ### Download the CrashD dataset
 - __[Part 1](https://drive.google.com/file/d/18tOcuHBzYEkMDOKoPshUBVOIKAHxEvnp/view?usp=sharing)__ - Scenes with undamaged cars
