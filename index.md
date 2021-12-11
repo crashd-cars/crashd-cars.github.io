@@ -2,7 +2,7 @@ Alexander Lehner \* &nbsp; Stefano Gasperini \* &nbsp; Alvaro Marcos-Ramiro \
 Michael Schmidt &nbsp; Mohammad-Ali Nikouei Mahani &nbsp; Nassir Navab \
 Benjamin Busam &nbsp; Federico Tombari
 
-\* equal contribution\
+\* equal contribution
 
 Technical University of Munich &nbsp; BMW Group &nbsp; Johns Hopkins University &nbsp; Google
 
