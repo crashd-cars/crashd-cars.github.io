@@ -22,12 +22,10 @@ As 3D object detection on point clouds relies on the geometrical relationships b
 
 ### Citation
 ```
-@misc{lehner20213dvfield,
-      title={3D-VField: Learning to Adversarially Deform Point Clouds for Robust 3D Object Detection}, 
-      author={Alexander Lehner and Stefano Gasperini and Alvaro Marcos-Ramiro and Michael Schmidt and Mohammad-Ali Nikouei Mahani and Nassir Navab and Benjamin Busam and Federico Tombari},
-      year={2021},
-      eprint={2112.04764},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{lehner2021_3dvfield_crashd,
+  title={3D-VField: Learning to Adversarially Deform Point Clouds for Robust 3D Object Detection},
+  author={Lehner, Alexander and Gasperini, Stefano and Marcos-Ramiro, Alvaro and Schmidt, Michael and Mahani, Mohammad-Ali Nikouei and Navab, Nassir and Busam, Benjamin and Tombari, Federico},
+  journal={arXiv preprint arXiv:2112.04764},
+  year={2021}
 }
 ```
