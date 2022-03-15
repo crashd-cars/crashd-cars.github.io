@@ -22,7 +22,7 @@ As 3D object detection on point clouds relies on the geometrical relationships b
 
 ### Citation
 ```
-@article{lehner2022_3dvfield_crashd,
+@inproceedings{lehner2022_3dvfield_crashd,
   title={3D-VField: Learning to Adversarially Deform Point Clouds for Robust 3D Object Detection},
   author={Lehner, Alexander and Gasperini, Stefano and Marcos-Ramiro, Alvaro and Schmidt, Michael and Mahani, Mohammad-Ali Nikouei and Navab, Nassir and Busam, Benjamin and Tombari, Federico},
   booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
