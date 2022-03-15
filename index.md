@@ -13,7 +13,7 @@ Technical University of Munich &nbsp; BMW Group &nbsp; Johns Hopkins University 
 
 License: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
-### Paper
+### Paper accepted at CVPR 2022 🎉
 - available on __[arXiv](https://arxiv.org/abs/2112.04764)__
 
 ### Abstract
@@ -22,11 +22,11 @@ As 3D object detection on point clouds relies on the geometrical relationships b
 
 ### Citation
 ```
-@article{lehner2021_3dvfield_crashd,
+@article{lehner2022_3dvfield_crashd,
   title={3D-VField: Learning to Adversarially Deform Point Clouds for Robust 3D Object Detection},
   author={Lehner, Alexander and Gasperini, Stefano and Marcos-Ramiro, Alvaro and Schmidt, Michael and Mahani, Mohammad-Ali Nikouei and Navab, Nassir and Busam, Benjamin and Tombari, Federico},
-  journal={arXiv preprint arXiv:2112.04764},
-  year={2021}
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2022}
 }
 ```
 
